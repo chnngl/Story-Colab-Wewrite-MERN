@@ -1,10 +1,10 @@
-# 📖 We‑Write: Story Collab Tool
+# We‑Write: Story Collab Tool
 
 A web application for seamless, real-time collaboration on stories, allowing authors to write, edit, and review each other’s work with robust locking, tagging, and history features. Online version: https://we-write.onrender.com/
 
 ---
 
-## 👥 Team Members
+## Team Members
 
 - Anjaly Jose
 - Archana Sahoo
@@ -14,20 +14,20 @@ A web application for seamless, real-time collaboration on stories, allowing aut
 
 ---
 
-## ✨ Features
+## Features
 
-- 🔐 **User Authentication**: Secure sign-up, login, and JWT sessions.
-- 📝 **Create & Edit**: Rich editor for story chapters, with per-story locking to avoid collisions.
-- 📚 **View & Collaborate**: Read published stories, add inline images, and filter by tags.
-- 📜 **Activity Logs**: Track edit history and view logs per story.
-- 🏷️ **Tag Filtering**: Browse stories by genre or custom tags.
-- 📱 **Responsive UI**: Mobile-first design with Bootstrap 5.
-- 🖼️ **Image Uploads**: Embed images in stories via Multer.
-- ⚙️ **Profile & Password Management**: Update password, view user profile.
+-  **User Authentication**: Secure sign-up, login, and JWT sessions.
+-  **Create & Edit**: Rich editor for story chapters, with per-story locking to avoid collisions.
+-  **View & Collaborate**: Read published stories, add inline images, and filter by tags.
+-  **Activity Logs**: Track edit history and view logs per story.
+-  **Tag Filtering**: Browse stories by genre or custom tags.
+-  **Responsive UI**: Mobile-first design with Bootstrap 5.
+-  **Image Uploads**: Embed images in stories via Multer.
+-  **Profile & Password Management**: Update password, view user profile.
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 **Frontend**  
 - React 18 & React Router v6  
@@ -45,7 +45,7 @@ A web application for seamless, real-time collaboration on stories, allowing aut
 
 ---
 
-## 📁 Folder Structure
+## Folder Structure
 
 ```
 we-write/                    # Project Root
@@ -73,7 +73,7 @@ we-write/                    # Project Root
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -103,7 +103,7 @@ npm run dev            # Vite or CRA dev server
 
 ---
 
-## 📡 API Endpoints
+## API Endpoints
 
 | Method | Path                                 | Description                         |
 |--------|--------------------------------------|-------------------------------------|
@@ -121,7 +121,7 @@ npm run dev            # Vite or CRA dev server
 
 ---
 
-## 💡 Usage & Routes
+## Usage & Routes
 
 **Client Routes** (React Router):
 
